@@ -118,7 +118,7 @@ python 03_yfinance_update.py
 
 ## 関連記事
 
-- [Qiita：yfinanceとStreamlitで株価分析アプリを作ってみよう（準備編）]()
+- [Qiita：yfinanceとStreamlitで株価分析アプリを作ってみよう（準備編）](https://qiita.com/minnano-python/items/946761b0855ed75c381a)
 
 <br><br>
 
