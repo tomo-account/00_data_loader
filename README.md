@@ -20,9 +20,8 @@
 ```
 
 
-### 2. _5min.csv の中身
+### OHLCVデータのイメージ
 
-※ _1h.csvと_daily.csvも同様です
 
 ```
 Datetime,Datetime_JST,Ticker,Close,High,Low,Open,Volume
