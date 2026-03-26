@@ -70,7 +70,7 @@ python 01_stock_filtering.py
 ```
 
 ここでは、デイトレ向きの銘柄リストを作成しました。
-実行するとティッカーコードが格納された `_filtering_list.xlsx` が生成されます。
+実行するとティッカーコードが格納された `_topix_list.xlsx` が生成されます。
 
 **フィルタリング条件（`01_stock_filtering.py` 内で変更可能）**
 
