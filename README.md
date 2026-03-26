@@ -70,7 +70,7 @@ python 01_stock_filtering.py
 ```
 
 ここでは、デイトレ向きの銘柄リストを作成しました。
-実行するとティッカーコードが格納された `_topix_list.xlsx` が生成されます。
+実行するとティッカーコードが格納された `_stock_list.xlsx` が生成されます。
 
 **フィルタリング条件（`01_stock_filtering.py` 内で変更可能）**
 
@@ -84,7 +84,7 @@ python 01_stock_filtering.py
 
 ### Step 2：株価データの初回取得（初回のみ）
 
-`_filtering_list.xlsx`（5分足・1時間足）と `_topix_list.xlsx`（日足）をもとに、過去データを一括取得してCSVに保存します。
+`_stock_list.xlsx`（5分足・1時間足）と `_topix_list.xlsx`（日足）をもとに、過去データを一括取得してCSVに保存します。
 
 ```bash
 python 02_yfinance_init.py
