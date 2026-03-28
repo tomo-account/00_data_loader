@@ -124,7 +124,7 @@ python a04_yfinance_futures_multi.py
 | ファイル | 時間足 | 初回取得期間 | 更新期間 |
 |---|---|---|---|
 | `_5min_futures.csv` | 5分足 | 直近60日 | 直近3日（継ぎ足し） |
-| `_daily_futures.csv` | 日足 | 直近3年 | 直近3日（継ぎ足し） |
+| `_daily_futures.csv` | 日足 | 直近3年 | 直近3年（上書き） |
 | `_5min_futures.parquet` | 5分足 | — | 自動生成 |
 | `_daily_futures.parquet` | 日足 | — | 自動生成 |
 
